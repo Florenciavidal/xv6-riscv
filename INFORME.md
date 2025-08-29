@@ -1,6 +1,6 @@
 # INFORME – Instalación y Ejecución de xv6 (RISC-V)
 **Autora:** Florencia Vidal  
-**Rama:** xv6-riscv  
+**Rama:** t0-FVidal 
 **Curso:** Sistemas Operativos  
 **Fecha:** 2025-08-29 (18:09)
 
